@@ -1,2 +1,4 @@
-# sagar-garrie-backend
-Backend of Sagar Garrie website built using Spring Boot and MySQL.
+# Sagar Garrie Backend
+Spring Boot REST API for Sagar Garrie website.
+Handles restaurant data, menu items, and table bookings.
+
